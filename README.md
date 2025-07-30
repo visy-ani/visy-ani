@@ -1,7 +1,12 @@
-<!-- HEADER SECTION -->
+<!-- HEADER SECTION WITH APPLE-STYLE INTRO -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I’m+Anish;Frontend+Developer;Design+Enthusiast;&center=true&width=600&height=40&font=Fira%20Code&color=36BCF7" alt="Typing SVG" />
+  <img src="./hi-mate-intro.svg" alt="Hi mate! intro" width="400" height="100" />
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=I’m+Anish;Frontend+Developer;Design+Enthusiast;&center=true&width=600&height=40&font=Fira%20Code&color=36BCF7" alt="Typing SVG" />
+</p>
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=visy-ani&theme=radical&margin-w=16&margin-h=12&no-bg=true&no-frame=true" alt="trophies" />
 </p>
@@ -31,7 +36,7 @@
 
 <!-- TOOLS/STACK -->
 <h3 align="center">🛠️ Languages & Tools</h3>
-<p align="center" style="display:flex; flex-wrap:wrap; gap:18px;">
+<p align="center">
   <a href="https://storybook.js.org/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/storybook.svg" alt="storybook" title="Storybook" height="36" style="background:#fff; border-radius:8px; padding:4px;" /></a>
   <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" title="React" height="36" /></a>
   <a href="https://vuejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" title="Vue" height="36" /></a>
@@ -66,7 +71,7 @@
 
 ---
 
-<!-- GITHUB STATS (centered, matching theme, minimal) -->
+<!-- GITHUB STATS -->
 <h3 align="center">📊 My GitHub Stats</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=visy-ani&show_icons=true&hide_border=true&theme=radical" alt="GitHub stats" height="170"/>
