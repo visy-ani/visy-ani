@@ -3,14 +3,14 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I’m+Anish;Frontend+Developer;Design+Enthusiast;&center=true&width=600&height=40&font=Fira%20Code&color=36BCF7" alt="Typing SVG" />
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=visy-ani&theme=radical&margin-w=12&margin-h=12&no-bg=true&no-frame=true" alt="visy-ani trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=visy-ani&theme=radical&margin-w=16&margin-h=12&no-bg=true&no-frame=true" alt="trophies" />
 </p>
 
 ---
 
 <p align="center">
   <em>
-    <b>🌱 Currently learning:</b> <span style="color:#fa79c6">GSAP, OpenGL & More</span><br>
+    <b>🌱 Currently learning:</b> <span style="color:#ffb86c">GSAP, OpenGL & More</span><br>
     <b>💬 Ask me about:</b> <span style="color:#8be9fd">Design, Animations, and Frontend Magic 💫</span><br>
     <b>📫 Reach me:</b> <span style="color:#f1fa8c">chocoboyanish566@gmail.com</span>
   </em>
@@ -18,7 +18,7 @@
 
 ---
 
-<!-- SOCIAL LINKS -->
+<!-- SOCIALS -->
 <h3 align="center">Connect with me</h3>
 <p align="center">
   <a href="https://dev.to/visy-ani" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="32" /></a>
@@ -29,7 +29,7 @@
 
 ---
 
-<!-- TOOLS/STACK - Modern, consistent icons with Storybook support -->
+<!-- TOOLS/STACK -->
 <h3 align="center">🛠️ Languages & Tools</h3>
 <p align="center" style="display:flex; flex-wrap:wrap; gap:18px;">
   <a href="https://storybook.js.org/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/storybook.svg" alt="storybook" title="Storybook" height="36" style="background:#fff; border-radius:8px; padding:4px;" /></a>
@@ -70,6 +70,6 @@
 <h3 align="center">📊 My GitHub Stats</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=visy-ani&show_icons=true&hide_border=true&theme=radical" alt="GitHub stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=visy-ani&theme=radical&hide_border=true" alt="GitHub streak" height="170"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=visy-ani&theme=radical&hide_border=true" alt="GitHub streak" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=visy-ani&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170"/>
 </p>
