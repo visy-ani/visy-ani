@@ -13,14 +13,13 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - uses: Platane/snk@v3
+      # This step now uses the correct 'outputs' input
+      - name: Generate Snake SVG
+        uses: Platane/snk@v3
         with:
           github_user_name: visy-ani
-          svg_out_path: github-contribution-grid-snake.svg
-
-      # DEBUG STEP: This will show us all files that exist before the commit step
-      - name: List files in the directory
-        run: ls -R
+          # The new, correct syntax for the output file
+          outputs: github-contribution-grid-snake.svg
 
       - name: Commit and push changes
         run: |
