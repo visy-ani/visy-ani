@@ -114,5 +114,6 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/visy-ani/visy-ani/main/github-contribution-grid-snake.svg" alt="github contribution snake animation" />
+  <img src="https://raw.githubusercontent.com/visy-ani/visy-ani/main/dist/snake.svg" alt="github contribution snake animation" />
 </p>
+
