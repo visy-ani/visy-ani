@@ -13,19 +13,27 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: Generate Snake SVG
+      - name: Generate Snake SVG (light)
         uses: Platane/snk@v3
         with:
           github_user_name: visy-ani
           outputs: |
-            dist/snake.svg
+            dist/snake-light.svg
           palette: "#ebedf0 #9be9a8 #40c463 #30a14e #216e39"
+
+      - name: Generate Snake SVG (dark)
+        uses: Platane/snk@v3
+        with:
+          github_user_name: visy-ani
+          outputs: |
+            dist/snake-dark.svg
+          palette: "#161b22 #0e4429 #006d32 #26a641 #39d353"
 
       - name: Commit and push changes
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add dist/snake.svg
+          git add dist/snake-light.svg dist/snake-dark.svg
           if ! git diff --staged --quiet; then
             git commit -m "docs: generate contribution snake animation"
             git push
