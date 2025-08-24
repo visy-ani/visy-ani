@@ -18,7 +18,7 @@
     <br><br>
     <b>🌱 Currently learning:</b> <span style="color:#ffb86c">GSAP, OpenGL & Next-gen Web Tech</span><br>
     <b>💬 Ask me about:</b> <span style="color:#8be9fd">Design, Animations, and Frontend Magic 💫</span><br>
-    <b>📫 How to reach me:</b> <a href="mailto:chocoboyanish566@gmail.com" style="color:#f1fa8c">chocoboyanish566@gmail.com</a>
+    <b>📫 How to reach me:</b> <a href="mailto:chocoboyanish566@gmail.com" style="color:#f1fa8c">anishyadav27112004@gmail.com</a>
   </em>
 </p>
 
@@ -30,6 +30,9 @@
   <a href="https://dev.to/visy-ani" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="32" /></a>&nbsp;
   <a href="https://www.leetcode.com/visy-ani" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="32" /></a>&nbsp;
   <a href="https://instagram.com/visy-ani" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="32" /></a>
+  <a href="https://x.com/visy_ani" target="_blank" rel="noopener noreferrer">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/x.svg" height="32" alt="X logo"/>
+</a>
 </p>
 
 ---
@@ -49,7 +52,7 @@
         <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
         <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
         <a href="https://d3js.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/></a>
-        <a href="https://greensock.com/gsap/" target="_blank"><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/gsap.svg" alt="gsap" width="40" height="40"/></a>
+        <a href="https://greensock.com/gsap/" target="_blank"><img src="./assets/gsap.svg" alt="gsap" width="40" height="40"/></a>
         <a href="https://animejs.com/" target="_blank"><img src="https://animejs.com/assets/images/anime-js-logo-v4.svg" alt="animejs" width="40" height="40"/></a>
         <a href="https://www.framer.com/motion/" target="_blank"><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/framer.svg" alt="framer motion" width="40" height="40"/></a>
         <a href="https://www.khronos.org/opengl/wiki/OpenGL_Shading_Language" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Opengl-logo.svg/1200px-Opengl-logo.svg.png?20230524144527" alt="glsl" width="40" height="40"/></a>
