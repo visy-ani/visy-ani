@@ -52,7 +52,7 @@
         <a href="https://greensock.com/gsap/" target="_blank"><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/gsap.svg" alt="gsap" width="40" height="40"/></a>
         <a href="https://animejs.com/" target="_blank"><img src="https://animejs.com/assets/images/anime-js-logo-v4.svg" alt="animejs" width="40" height="40"/></a>
         <a href="https://www.framer.com/motion/" target="_blank"><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/framer.svg" alt="framer motion" width="40" height="40"/></a>
-        <a href="https://www.khronos.org/opengl/wiki/OpenGL_Shading_Language" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/OpenGL_Logo.svg" alt="glsl" width="40" height="40"/></a>
+        <a href="https://www.khronos.org/opengl/wiki/OpenGL_Shading_Language" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Opengl-logo.svg/1200px-Opengl-logo.svg.png?20230524144527" alt="glsl" width="40" height="40"/></a>
       </p>
     </td>
     <td>
@@ -66,9 +66,9 @@
         <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
         <a href="https://appwrite.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/></a>
         <a href="https://www.prisma.io/" target="_blank"><img src="https://raw.githubusercontent.com/prisma/presskit/main/Assets/Prisma-LightSymbol.svg" alt="prisma orm" width="40" height="40"/></a>
-        <a href="https://sanity.io" target="_blank"><img src="https://raw.githubusercontent.com/sanity-io/sanity/main/packages/%40sanity/logos/src/sanity-logo.png" alt="sanity" width="40" height="40"/></a>
-        <a href="https://sentry.io/" target="_blank"><img src="https://raw.githubusercontent.com/getsentry/sentry-brand/master/assets/logo-square-small.png" alt="sentry" width="40" height="40"/></a>
-        <a href="https://zustand-demo.pmnd.rs/" target="_blank"><img src="https://raw.githubusercontent.com/pmndrs/zustand/main/docs/logo.svg" alt="zustand" width="40" height="40"/></a>
+        <a href="https://sanity.io" target="_blank"><img src="https://icon.icepanel.io/Technology/svg/Sanity.svg" alt="sanity" width="40" height="40"/></a>
+        <a href="https://sentry.io/" target="_blank"><img src="https://docs.sentry.io/_next/static/media/sentry-logo-dark.fc8e1eeb.svg" alt="sentry" width="40" height="40"/></a>
+        <a href="https://zustand-demo.pmnd.rs/"><img src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg" alt="Zustand Logo" width="40" height="40" /></a>
       </p>
     </td>
   </tr>
