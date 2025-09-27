@@ -56,6 +56,7 @@
         <a href="https://animejs.com/" target="_blank"><img src="https://animejs.com/assets/images/anime-js-logo-v4.svg" alt="animejs" width="40" height="40"/></a>
         <a href="https://www.framer.com/motion/" target="_blank"><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/framer.svg" alt="framer motion" width="40" height="40"/></a>
         <a href="https://www.khronos.org/opengl/wiki/OpenGL_Shading_Language" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Opengl-logo.svg/1200px-Opengl-logo.svg.png?20230524144527" alt="glsl" width="40" height="40"/></a>
+        <a href="https://wxt.dev/" target="_blank"><img src="https://wxt.dev/hero-logo.svg" alt="glsl" width="40" height="40"/></a>
       </p>
     </td>
     <td>
