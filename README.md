@@ -45,7 +45,7 @@
       <b>🚀 Frontend & Animation</b><br>
       <p align="center">
         <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-        <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/></a>
+        <a href="https://nextjs.org/" target="_blank"><img src="https://img.icons8.com/?size=100&id=yUdJlcKanVbh&format=png&color=000000" alt="nextjs" width="40" height="40"/></a>
         <a href="https://vuejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/></a>
         <a href="https://redux.js.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/></a>
         <a href="https://vitejs.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg" alt="vite" width="40" height="40"/></a>
@@ -56,7 +56,8 @@
         <a href="https://animejs.com/" target="_blank"><img src="https://animejs.com/assets/images/anime-js-logo-v4.svg" alt="animejs" width="40" height="40"/></a>
         <a href="https://www.framer.com/motion/" target="_blank"><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/framer.svg" alt="framer motion" width="40" height="40"/></a>
         <a href="https://www.khronos.org/opengl/wiki/OpenGL_Shading_Language" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Opengl-logo.svg/1200px-Opengl-logo.svg.png?20230524144527" alt="glsl" width="40" height="40"/></a>
-        <a href="https://wxt.dev/" target="_blank"><img src="https://wxt.dev/hero-logo.svg" alt="glsl" width="40" height="40"/></a>
+        <a href="https://wxt.dev/" target="_blank"><img src="https://wxt.dev/hero-logo.svg" alt="wxt" width="40" height="40"/></a>
+        <a href="https://browserstack.com/" target="_blank"><img src="https://img.icons8.com/?size=100&id=tbI41C0WyV8e&format=png&color=000000" alt="browserstack" width="40" height="40"/></a>
       </p>
     </td>
     <td>
@@ -97,7 +98,7 @@
     </td>
   </tr>
    <tr>
-    <td colspan="2">
+    <td>
       <b>🔩 Languages & Low-Level</b><br>
       <p align="center">
                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
@@ -108,6 +109,16 @@
         <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
       </p>
     </td>
+     <td colspan="2">
+    <b>🤖 AI Tools</b><br>
+    <p align="center">
+      <a href="https://www.cursor.so/" target="_blank"><img src="https://img.icons8.com/?size=100&id=DiGZkjCzyZXn&format=png&color=000000" alt="Cursor" width="40" height="40"/></a>
+      <a href="https://chat.openai.com/" target="_blank"><img src="https://img.icons8.com/?size=100&id=FBO05Dys9QCg&format=png&color=000000" alt="ChatGPT" width="40" height="40"/></a>
+      <a href="https://www.perplexity.ai/" target="_blank"><img src="https://img.icons8.com/?size=100&id=kzJWN5jCDzpq&format=png&color=000000" alt="Perplexity" width="40" height="40"/></a>
+      <a href="https://claude.ai/" target="_blank"><img src="https://img.icons8.com/?size=100&id=zQjzFjPpT2Ek&format=png&color=000000" alt="Claude" width="40" height="40"/></a>
+      <a href="https://gemini.google.com/" target="_blank"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/Google-gemini-icon.svg" alt="Gemini" width="40" height="40"/></a>
+    </p>
+  </td>
   </tr>
 </table>
 
