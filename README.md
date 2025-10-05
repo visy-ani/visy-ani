@@ -17,8 +17,8 @@
     A passionate full-stack developer and design enthusiast from India 🇮🇳. I specialize in creating beautiful, functional, and user-centric digital experiences.
     <br><br>
     <b>🌱 Currently learning:</b> <span style="color:#ffb86c">GSAP, OpenGL & Next-gen Web Tech</span><br>
-    <b>💬 Ask me about:</b> <span style="color:#8be9fd">Design, Animations, and Frontend Magic 💫</span><br>
-    <b>📫 How to reach me:</b> <a href="mailto:chocoboyanish566@gmail.com" style="color:#f1fa8c">anishyadav27112004@gmail.com</a>
+    <b>💬 Ask me about:</b> <span style="color:#8be9fd">Design, Animations, and Tech Magic 💫</span><br>
+    <b>📫 How to reach me:</b> <a href="mailto:visyani27@gmail.com" style="color:#f1fa8c">visyani27@gmail.com</a>
   </em>
 </p>
 
