@@ -4,6 +4,9 @@ on:
   schedule:
     - cron: "0 1 * * *"
   workflow_dispatch:
+  push:
+    branches:
+      - main
 
 jobs:
   github-metrics:
@@ -11,7 +14,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@v3.34
         with:
           # Requires a GitHub PAT (read:user + public_repo scopes) stored as GH_TOKEN secret
           token: ${{ secrets.GH_TOKEN }}
