@@ -1,0 +1,46 @@
+name: Generate GitHub Metrics
+
+on:
+  schedule:
+    - cron: "0 1 * * *"
+  workflow_dispatch:
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # Requires a GitHub PAT (read:user + public_repo scopes) stored as GH_TOKEN secret
+          token: ${{ secrets.GH_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+
+          user: visy-ani
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Kolkata
+          filename: github-metrics.svg
+
+          # Languages breakdown
+          plugin_languages: yes
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_categories: markup, programming
+          plugin_languages_colors: github
+          plugin_languages_limit: 8
+          plugin_languages_sections: most-used
+
+          # Isometric contribution calendar
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+
+          # Coding habits
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_charts: no
+
+          # Display order
+          config_order: base.header, isocalendar, languages, habits, base.repositories
