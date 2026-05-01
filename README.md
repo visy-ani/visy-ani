@@ -25,12 +25,18 @@
 ---
 
 <!-- 🎵 SPOTIFY NOW PLAYING -->
-<!-- One-time setup: visit https://spotify-github-profile.vercel.app/login → connect Spotify → copy your UID → replace YOUR_SPOTIFY_UID below -->
+<!--
+  Setup options (replace the img src below once configured):
+  Option A – novatorem: fork https://github.com/novatorem/novatorem, deploy to Vercel with your
+             Spotify credentials, then use https://<your-app>.vercel.app/api/spotify as the img src.
+  Option B – spotify-github-profile: visit https://spotify-github-profile.vercel.app/login,
+             connect Spotify, get your UID, then use:
+             https://spotify-github-profile.vercel.app/api/view?uid=YOUR_UID&cover_image=true&theme=neon
+-->
 <h3 align="center">🎵 Now Playing on Spotify</h3>
 <p align="center">
-  <a href="https://open.spotify.com/user/YOUR_SPOTIFY_UID" target="_blank" rel="noopener noreferrer">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=neon&show_offline=true&background_color=000000&interchange=true&bar_color=36BCF7&bar_color_cover=true" alt="Spotify Now Playing" width="360" />
-  </a>
+  <!-- Replace YOUR_NOVATOREM_URL with your deployed novatorem endpoint once set up -->
+  <img src="https://img.shields.io/badge/Spotify-Setup_Required-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify – setup required" width="360" />
 </p>
 
 ---
