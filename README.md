@@ -1,194 +1,21 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/visy-ani/visy-ani/main/hi-mate-intro.svg" alt="Hi mate! intro" width="400" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=I’m+Anish;Full+Stack+Developer;Design+Enthusiast;&center=true&width=600&height=40&font=Fira%20Code&color=36BCF7" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=visy-ani&theme=radical&margin-w=16&margin-h=12&no-bg=true&no-frame=true" alt="trophies" />
-</p>
-
----
-
-<p align="center">
-  <em>
-    A passionate full-stack developer and design enthusiast from India 🇮🇳. I specialize in creating beautiful, functional, and user-centric digital experiences.
-    <br><br>
-    <b>🌱 Currently learning:</b> <span style="color:#ffb86c">GSAP, OpenGL & Next-gen Web Tech</span><br>
-    <b>💬 Ask me about:</b> <span style="color:#8be9fd">Design, Animations, and Tech Magic 💫</span><br>
-    <b>📫 How to reach me:</b> <a href="mailto:visyani27@gmail.com" style="color:#f1fa8c">visyani27@gmail.com</a>
-  </em>
-</p>
-
----
-
-<!-- 🎵 SPOTIFY NOW PLAYING -->
-<!--
-  Setup options (replace the img src below once configured):
-  Option A – novatorem: fork https://github.com/novatorem/novatorem, deploy to Vercel with your
-             Spotify credentials, then use https://<your-app>.vercel.app/api/spotify as the img src.
-  Option B – spotify-github-profile: visit https://spotify-github-profile.vercel.app/login,
-             connect Spotify, get your UID, then use:
-             https://spotify-github-profile.vercel.app/api/view?uid=YOUR_UID&cover_image=true&theme=neon
--->
-<h3 align="center">🎵 Now Playing on Spotify</h3>
-<p align="center">
-  <!-- Replace YOUR_NOVATOREM_URL with your deployed novatorem endpoint once set up -->
-  <img src="https://img.shields.io/badge/Spotify-Setup_Required-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify – setup required" width="360" />
-</p>
-
----
-
-<h3 align="center">🤝 Connect with Me</h3>
-<p align="center">
-  <a href="https://linkedin.com/in/anish-yadav-728072235" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="32" /></a>&nbsp;
-  <a href="https://dev.to/visy-ani" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="32" /></a>&nbsp;
-  <a href="https://www.leetcode.com/visy-ani" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="32" /></a>&nbsp;
-  <a href="https://instagram.com/visy-ani" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="32" /></a>
-  <a href="https://x.com/visy_ani" target="_blank" rel="noopener noreferrer">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/x.svg" height="32" alt="X logo"/>
-</a>
-</p>
-
----
-
-<h3 align="center">⚔️ My Tech Arsenal</h3>
-
-<table width="100%" align="center">
-  <tr>
-    <td align="center" width="50%">
-      <b>🚀 Frontend & Animation</b><br><br>
-      <table align="center">
-        <tr>
-          <td><a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a></td>
-          <td><a href="https://nextjs.org/" target="_blank"><img src="https://img.icons8.com/?size=100&id=yUdJlcKanVbh&format=png&color=000000" alt="nextjs" width="40" height="40"/></a></td>
-          <td><a href="https://vuejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/></a></td>
-          <td><a href="https://redux.js.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/></a></td>
-          <td><a href="https://vitejs.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg" alt="vite" width="40" height="40"/></a></td>
-        </tr>
-        <tr>
-          <td><a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a></td>
-          <td><a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a></td>
-          <td><a href="https://d3js.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/></a></td>
-          <td><a href="https://greensock.com/gsap/" target="_blank"><img src="./assets/gsap.svg" alt="gsap" width="40" height="40"/></a></td>
-          <td><a href="https://animejs.com/" target="_blank"><img src="https://animejs.com/assets/images/anime-js-logo-v4.svg" alt="animejs" width="40" height="40"/></a></td>
-        </tr>
-        <tr>
-          <td><a href="https://www.framer.com/motion/" target="_blank"><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/framer.svg" alt="framer motion" width="40" height="40"/></a></td>
-          <td><a href="https://www.khronos.org/opengl/wiki/OpenGL_Shading_Language" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Opengl-logo.svg/1200px-Opengl-logo.svg.png?20230524144527" alt="glsl" width="40" height="40"/></a></td>
-          <td><a href="https://wxt.dev/" target="_blank"><img src="https://wxt.dev/hero-logo.svg" alt="wxt" width="40" height="40"/></a></td>
-          <td><a href="https://browserstack.com/" target="_blank"><img src="https://img.icons8.com/?size=100&id=tbI41C0WyV8e&format=png&color=000000" alt="browserstack" width="40" height="40"/></a></td>
-          <td></td>
-        </tr>
-      </table>
-    </td>
-    <td align="center" width="50%">
-      <b>⚙️ Backend & Databases</b><br><br>
-      <table align="center">
-        <tr>
-          <td><a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a></td>
-          <td><a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a></td>
-          <td><a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a></td>
-          <td><a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a></td>
-          <td><a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a></td>
-        </tr>
-        <tr>
-          <td><a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a></td>
-          <td><a href="https://appwrite.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/></a></td>
-          <td><a href="https://www.prisma.io/" target="_blank"><img src="https://raw.githubusercontent.com/prisma/presskit/main/Assets/Prisma-LightSymbol.svg" alt="prisma orm" width="40" height="40"/></a></td>
-          <td><a href="https://sanity.io" target="_blank"><img src="https://icon.icepanel.io/Technology/svg/Sanity.svg" alt="sanity" width="40" height="40"/></a></td>
-          <td><a href="https://sentry.io/" target="_blank"><img src="https://docs.sentry.io/_next/static/media/sentry-logo-dark.fc8e1eeb.svg" alt="sentry" width="40" height="40"/></a></td>
-        </tr>
-        <tr>
-          <td><a href="https://zustand-demo.pmnd.rs/"><img src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg" alt="Zustand Logo" width="40" height="40" /></a></td>
-          <td></td><td></td><td></td><td></td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <b>🎨 UI/UX Design</b><br><br>
-      <table align="center">
-        <tr>
-          <td><a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a></td>
-          <td><a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/></a></td>
-          <td><a href="https://www.photoshop.com/en" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a></td>
-        </tr>
-      </table>
-    </td>
-    <td align="center" width="50%">
-      <b>☁️ DevOps & Tools</b><br><br>
-      <table align="center">
-        <tr>
-          <td><a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a></td>
-          <td><a href="https://webpack.js.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/></a></td>
-          <td><a href="https://babeljs.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/></a></td>
-          <td><a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a></td>
-          <td><a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a></td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <b>🔩 Languages & Low-Level</b><br><br>
-      <table align="center">
-        <tr>
-          <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a></td>
-          <td><a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a></td>
-          <td><a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a></td>
-        </tr>
-        <tr>
-          <td><a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a></td>
-          <td><a href="https://www.java.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a></td>
-          <td><a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a></td>
-        </tr>
-      </table>
-    </td>
-    <td align="center" width="50%">
-      <b>🤖 AI Tools</b><br><br>
-      <table align="center">
-        <tr>
-          <td><a href="https://www.cursor.so/" target="_blank"><img src="https://img.icons8.com/?size=100&id=DiGZkjCzyZXn&format=png&color=000000" alt="Cursor" width="40" height="40"/></a></td>
-          <td><a href="https://chat.openai.com/" target="_blank"><img src="https://img.icons8.com/?size=100&id=FBO05Dys9QCg&format=png&color=000000" alt="ChatGPT" width="40" height="40"/></a></td>
-          <td><a href="https://www.perplexity.ai/" target="_blank"><img src="https://img.icons8.com/?size=100&id=kzJWN5jCDzpq&format=png&color=000000" alt="Perplexity" width="40" height="40"/></a></td>
-        </tr>
-        <tr>
-          <td><a href="https://claude.ai/" target="_blank"><img src="https://img.icons8.com/?size=100&id=zQjzFjPpT2Ek&format=png&color=000000" alt="Claude" width="40" height="40"/></a></td>
-          <td><a href="https://gemini.google.com/" target="_blank"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/Google-gemini-icon.svg" alt="Gemini" width="40" height="40"/></a></td>
-          <td></td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/visy-ani/visy-ani/main/dist/snake-dark.svg" alt="github contribution snake animation" />
-</p>
-
----
-
-<!-- 🌐 3D CONTRIBUTION CALENDAR — generated by .github/workflows/3d-contrib.yml -->
-<h3 align="center">🌐 3D Contribution Calendar</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/visy-ani/visy-ani/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Calendar" />
-</p>
-
----
-
-<!-- 💬 DAILY DEV QUOTE -->
-<h3 align="center">💬 Dev Quote of the Day</h3>
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote of the Day" />
-</p>
-
-<!-- 😂 RANDOM DEV JOKE -->
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=radical" alt="Random Dev Joke" />
+  <img src="assets/readme/hero.f3c77f3f.svg" width="100%" alt="Anish Yadav. Designer by instinct. Engineer by curiosity. Founding Engineer at Maximem AI."><br>
+  <a href="#identity"><img src="assets/readme/nav-identity.759be23d.svg" width="25.475%" alt="identity"></a><a href="#now"><img src="assets/readme/nav-now.ad419505.svg" width="8.215%" alt="now"></a><a href="#work"><img src="assets/readme/nav-work.775ddbaa.svg" width="9.145%" alt="work"></a><a href="#arsenal"><img src="assets/readme/nav-arsenal.ddf309a0.svg" width="11.934%" alt="arsenal"></a><a href="#codex"><img src="assets/readme/nav-codex.d4b6aa35.svg" width="10.074%" alt="codex"></a><a href="#experiments"><img src="assets/readme/nav-experiments.d6b3e427.svg" width="15.654%" alt="experiments"></a><a href="#proof"><img src="assets/readme/nav-proof.ff07131b.svg" width="19.303%" alt="proof"></a><br>
+  <a name="identity"></a><img src="assets/readme/identity.b619707c.svg" width="100%" alt="01 Identity. Designer, Engineer, Experimenter."><br>
+  <a name="now"></a><img src="assets/readme/now.db51d692.svg" width="100%" alt="02 Currently building"><br>
+  <a href="https://maximem.ai"><img src="assets/readme/maximem.b19d5bf9.svg" width="100%" alt="Maximem AI. Founding Engineer. maximem.ai"></a><br>
+  <a name="work"></a><img src="assets/readme/work.2b7111e3.svg" width="100%" alt="03 Selected work"><br>
+  <img src="assets/readme/work-1.387d1ade.svg" width="49.9%" alt="Giri (private)"><a href="https://github.com/visy-ani/incident_commander"><img src="assets/readme/work-2.f1dd2683.svg" width="49.9%" alt="Incident Commander"></a><br>
+  <a href="https://github.com/visy-ani/multimodal-product-catalogue"><img src="assets/readme/work-3.3ce125a3.svg" width="49.9%" alt="Catalogue Intel"></a><a href="https://github.com/visy-ani/video-editor"><img src="assets/readme/work-4.632ac50c.svg" width="49.9%" alt="Video Editor"></a><br>
+  <a href="https://github.com/visy-ani/headless-diff-server"><img src="assets/readme/work-5.7b71024c.svg" width="49.9%" alt="DOM Contract Monitor"></a><a href="https://github.com/visy-ani/documind-ai"><img src="assets/readme/work-6.305176eb.svg" width="49.9%" alt="DocuMind AI"></a><br>
+  <a name="arsenal"></a><img src="assets/readme/arsenal.6c392305.svg" width="100%" alt="04 Engineering arsenal"><br>
+  <a name="codex"></a><img src="assets/readme/codex.a8e3f7a3.svg" width="100%" alt="05 The codex"><br>
+  <a name="experiments"></a><img src="assets/readme/experiments.eaf0f097.svg" width="100%" alt="06 Experiments"><br>
+  <a href="https://github.com/visy-ani/shader-study"><img src="assets/readme/exp-1.237c98b9.svg" width="33.115%" alt="Experiment 01"></a><a href="https://github.com/visy-ani/particle-trails"><img src="assets/readme/exp-2.8be7777f.svg" width="33.569%" alt="Experiment 02"></a><a href="https://github.com/visy-ani/magnetic-grid"><img src="assets/readme/exp-3.6a0dba40.svg" width="33.115%" alt="Experiment 03"></a><br>
+  <a name="writing"></a><img src="assets/readme/writing.db3f1a81.svg" width="100%" alt="07 Writing"><br>
+  <a href="https://medium.com/@visy-ani/how-do-we-scale-an-ai-agent-016259077f94"><img src="assets/readme/article-1.af5370f4.svg" width="100%" alt="How do we Scale an AI Agent?"></a><br>
+  <a href="https://medium.com/@visy-ani/how-does-an-agent-remember-e5a0891b523e"><img src="assets/readme/article-2.b1bb1c01.svg" width="100%" alt="How does an Agent Remember?"></a><br>
+  <a href="https://medium.com/@visy-ani/what-actually-makes-an-ai-agent-dba44297da82"><img src="assets/readme/article-3.b6c90f30.svg" width="100%" alt="What actually makes an AI Agent"></a><br>
+  <a name="proof"></a><img src="assets/readme/proof.b99f29c2.svg" width="100%" alt="08 Proof of work"><br>
+  <a href="https://maximem.ai"><img src="assets/readme/foot-maximem.32459bfe.svg" width="11.795%" alt="maximem"></a><a href="https://www.linkedin.com/in/visy-ani/"><img src="assets/readme/foot-linkedin.53d0b6b6.svg" width="9.936%" alt="linkedin"></a><a href="https://medium.com/@visy-ani"><img src="assets/readme/foot-medium.a203eb61.svg" width="8.075%" alt="medium"></a><a href="https://dev.to/visy-ani"><img src="assets/readme/foot-devto.81b0b3fd.svg" width="8.075%" alt="devto"></a>
 </p>

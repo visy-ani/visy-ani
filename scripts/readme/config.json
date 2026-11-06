@@ -1,0 +1,409 @@
+{
+  "_note": "Every link and card in the README comes from here. Edit, then run: python3 scripts/readme/build.py",
+  "handle": "visy-ani",
+  "links": {
+    "maximem": "https://maximem.ai",
+    "linkedin": "https://www.linkedin.com/in/visy-ani/",
+    "medium": "https://medium.com/@visy-ani",
+    "devto": "https://dev.to/visy-ani",
+    "projects": [
+      {
+        "name": "giri",
+        "title": "Giri",
+        "private": true,
+        "lines": [
+          "Voice-controlled live show host. Runs",
+          "segments and obeys spoken commands."
+        ],
+        "tags": [
+          "VOICE",
+          "REALTIME",
+          "AGENTS"
+        ]
+      },
+      {
+        "name": "incident_commander",
+        "title": "Incident Commander",
+        "repo": "incident_commander",
+        "lines": [
+          "OpenEnv benchmark that tests agents on",
+          "real production incident response."
+        ],
+        "tags": [
+          "OPENENV",
+          "AGENTS",
+          "OPS"
+        ]
+      },
+      {
+        "name": "multimodal-product-catalogue",
+        "title": "Catalogue Intel",
+        "repo": "multimodal-product-catalogue",
+        "lines": [
+          "Multi-agent product search by text, image",
+          "or both, with auto-written descriptions."
+        ],
+        "tags": [
+          "MULTIMODAL",
+          "AGENTS",
+          "SEARCH"
+        ]
+      },
+      {
+        "name": "video-editor",
+        "title": "Video Editor",
+        "repo": "video-editor",
+        "lines": [
+          "Turns long phone footage into finished",
+          "reels, timed to measurements of the audio."
+        ],
+        "tags": [
+          "PYTHON",
+          "AUDIO",
+          "VIDEO"
+        ]
+      },
+      {
+        "name": "headless-diff-server",
+        "title": "DOM Contract Monitor",
+        "repo": "headless-diff-server",
+        "lines": [
+          "Headless monitor that catches AI-platform",
+          "DOM changes before users report them."
+        ],
+        "tags": [
+          "MONITORING",
+          "HEADLESS",
+          "CRON"
+        ]
+      },
+      {
+        "name": "documind-ai",
+        "title": "DocuMind AI",
+        "repo": "documind-ai",
+        "lines": [
+          "Upload PDFs, Word and Excel files, then",
+          "query and collaborate on them with Gemini."
+        ],
+        "tags": [
+          "NEXT.JS",
+          "GEMINI",
+          "DOCS"
+        ]
+      }
+    ],
+    "experiments": [
+      {
+        "name": "shader-study",
+        "url": "https://github.com/visy-ani/shader-study"
+      },
+      {
+        "name": "particle-trails",
+        "url": "https://github.com/visy-ani/particle-trails"
+      },
+      {
+        "name": "magnetic-grid",
+        "url": "https://github.com/visy-ani/magnetic-grid"
+      }
+    ]
+  },
+  "arsenal": [
+    {
+      "label": "LANGUAGES",
+      "items": [
+        [
+          "TS",
+          "TypeScript"
+        ],
+        [
+          "Py",
+          "Python"
+        ],
+        [
+          "JS",
+          "JavaScript"
+        ],
+        [
+          "Jv",
+          "Java"
+        ],
+        [
+          "SQL",
+          "SQL"
+        ],
+        [
+          "Sh",
+          "Shell"
+        ],
+        [
+          "GL",
+          "GLSL"
+        ],
+        [
+          "CSS",
+          "CSS"
+        ]
+      ]
+    },
+    {
+      "label": "FRONT-END",
+      "items": [
+        [
+          "Re",
+          "React"
+        ],
+        [
+          "Nx",
+          "Next.js"
+        ],
+        [
+          "Tw",
+          "Tailwind"
+        ],
+        [
+          "Gs",
+          "GSAP"
+        ],
+        [
+          "3D",
+          "Three.js"
+        ],
+        [
+          "Sb",
+          "Storybook"
+        ],
+        [
+          "Wp",
+          "Webpack"
+        ],
+        [
+          "Sy",
+          "Sanity"
+        ]
+      ]
+    },
+    {
+      "label": "EXTENSIONS · CLI",
+      "items": [
+        [
+          "Cr",
+          "Chrome Ext."
+        ],
+        [
+          "WXT",
+          "WXT"
+        ],
+        [
+          "Pl",
+          "Plasmo"
+        ],
+        [
+          "CLI",
+          "CLI Dev"
+        ]
+      ]
+    },
+    {
+      "label": "BACKEND · INFRA",
+      "items": [
+        [
+          "No",
+          "Node.js"
+        ],
+        [
+          "Pg",
+          "Postgres"
+        ],
+        [
+          "Pr",
+          "Prisma"
+        ],
+        [
+          "Ts",
+          "TimescaleDB"
+        ],
+        [
+          "Rd",
+          "Redis"
+        ],
+        [
+          "Dk",
+          "Docker"
+        ],
+        [
+          "AWS",
+          "AWS"
+        ],
+        [
+          "GCP",
+          "GCP"
+        ]
+      ]
+    },
+    {
+      "label": "SYSTEMS",
+      "items": [
+        [
+          "Ds",
+          "Distributed"
+        ],
+        [
+          "SD",
+          "Sys Design"
+        ],
+        [
+          "Ar",
+          "Architecture"
+        ],
+        [
+          "MT",
+          "Multi-Tenant"
+        ]
+      ]
+    },
+    {
+      "label": "OBSERVABILITY",
+      "items": [
+        [
+          "Ob",
+          "Observability"
+        ],
+        [
+          "Gr",
+          "Grafana"
+        ],
+        [
+          "Sn",
+          "Sentry"
+        ],
+        [
+          "PH",
+          "PostHog"
+        ],
+        [
+          "Cl",
+          "Clarity"
+        ],
+        [
+          "Dv",
+          "DevOps"
+        ]
+      ]
+    },
+    {
+      "label": "AI · AGENTS",
+      "items": [
+        [
+          "LLM",
+          "LLM APIs"
+        ],
+        [
+          "Vec",
+          "Vector DBs"
+        ],
+        [
+          "Ag",
+          "Agents"
+        ],
+        [
+          "Ev",
+          "Evals"
+        ],
+        [
+          "RAG",
+          "RAG"
+        ],
+        [
+          "MCP",
+          "MCP"
+        ],
+        [
+          "Mem",
+          "Memory"
+        ],
+        [
+          "Vo",
+          "Voice AI"
+        ]
+      ]
+    },
+    {
+      "label": "DESIGN",
+      "accent": "gold",
+      "items": [
+        [
+          "Fg",
+          "Figma"
+        ],
+        [
+          "Ad",
+          "Adobe"
+        ],
+        [
+          "UX",
+          "UI / UX"
+        ],
+        [
+          "Pt",
+          "Prototyping"
+        ]
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "title": "How do we Scale an AI Agent?",
+      "url": "https://medium.com/@visy-ani/how-do-we-scale-an-ai-agent-016259077f94",
+      "claps": 74,
+      "voices": [
+        {
+          "kind": "comment",
+          "quote": "thoughtful in every way. kudos",
+          "person": {
+            "name": "Kamrun Nahar",
+            "avatar": "kamrun",
+            "stats": [
+              "3.7k followers on Medium"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "How does an Agent Remember?",
+      "url": "https://medium.com/@visy-ani/how-does-an-agent-remember-e5a0891b523e",
+      "claps": 24,
+      "voices": [
+        {
+          "kind": "comment",
+          "quote": "Your chocolate example is a useful test for what gets saved.",
+          "person": {
+            "name": "Marcus Chang",
+            "avatar": "marcus",
+            "stats": [
+              "Applied AI Engineer",
+              "1.2k GitHub stars on learn-agent-architecture"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "What actually makes an AI Agent",
+      "url": "https://medium.com/@visy-ani/what-actually-makes-an-ai-agent-dba44297da82",
+      "claps": null,
+      "voices": [
+        {
+          "kind": "clapped",
+          "person": {
+            "name": "Volodymyr Vreshch",
+            "avatar": "vreshch",
+            "stats": [
+              "*Senior Engineer @ Microsoft, Ph.D."
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

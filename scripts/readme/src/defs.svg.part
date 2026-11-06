@@ -1,0 +1,9 @@
+<defs>
+<linearGradient id="gGold" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#F0D79A"></stop><stop offset=".5" stop-color="#D5AE62"></stop><stop offset="1" stop-color="#8C6A2C"></stop></linearGradient>
+<linearGradient id="gGoldFade" x1="0" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#D5AE62"></stop><stop offset=".55" stop-color="#D5AE62" stop-opacity=".45"></stop><stop offset="1" stop-color="#B6F36A" stop-opacity="0"></stop></linearGradient>
+<linearGradient id="gBif" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#B6F36A" stop-opacity="0"></stop><stop offset=".2" stop-color="#B6F36A"></stop><stop offset=".8" stop-color="#D5AE62"></stop><stop offset="1" stop-color="#D5AE62" stop-opacity="0"></stop></linearGradient>
+<linearGradient id="gEm" x1="0" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#1E5B40"></stop><stop offset="1" stop-color="#B6F36A"></stop></linearGradient>
+<linearGradient id="gPanel" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#101715"></stop><stop offset="1" stop-color="#080B0D"></stop></linearGradient>
+<radialGradient id="rEm" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#1E5B40" stop-opacity=".6"></stop><stop offset="1" stop-color="#080B0D" stop-opacity="0"></stop></radialGradient>
+<filter id="fGlow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="4" result="b"></feGaussianBlur><feMerge><feMergeNode in="b"></feMergeNode><feMergeNode in="SourceGraphic"></feMergeNode></feMerge></filter>
+</defs>

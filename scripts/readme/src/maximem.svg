@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="320" viewBox="0 0 880 320" role="img" aria-label="Maximem AI. Founding Engineer. Building AI infrastructure and memory systems for AI agents. maximem.ai">
+<rect x=".5" y=".5" width="879" height="319" rx="16" fill="#101715" stroke="#29332D"></rect>
+<ellipse cx="660" cy="160" rx="260" ry="170" fill="url(#rEm)"></ellipse>
+<rect x="40" y="0" width="90" height="2" fill="#B6F36A"></rect>
+<circle cx="46" cy="52" r="4" fill="#B6F36A" filter="url(#fGlow)"></circle>
+<text class="jb" x="60" y="56" font-size="12" letter-spacing="4" fill="#B6F36A">NOW · BUILDING</text>
+<text class="sg" x="40" y="116" font-size="50" font-weight="700" fill="#E8ECE7" letter-spacing="-1">Maximem <tspan fill="#B6F36A">AI</tspan></text>
+<text class="cg" x="40" y="156" font-size="30" font-weight="600" fill="#D5AE62">Founding Engineer</text>
+<text class="sg" x="40" y="196" font-size="16" fill="#E8ECE7">AI infrastructure and memory systems</text>
+<text class="sg" x="40" y="220" font-size="16" fill="#E8ECE7">for AI agents. The layer that lets</text>
+<text class="sg" x="40" y="244" font-size="16" fill="#E8ECE7">agents remember.</text>
+<rect x="40" y="264" width="170" height="36" rx="8" fill="#151D19" stroke="#B6F36A"></rect>
+<text class="jb" x="58" y="287" font-size="13" fill="#B6F36A">maximem.ai ↗</text>
+<ellipse cx="660" cy="298" rx="120" ry="15" fill="none" stroke="#1E5B40"></ellipse><ellipse cx="660" cy="308" rx="152" ry="20" fill="none" stroke="#1E5B40" stroke-opacity=".6"></ellipse>
+<g fill="none" stroke-linecap="round">
+<path d="M660 292 C 660 250 656 220 660 190" stroke="url(#gEm)" stroke-width="3.5"></path>
+<g stroke="#B6F36A" stroke-opacity=".75" stroke-width="1.8"><path d="M660 218 C 640 204 610 198 590 172"></path><path d="M660 218 C 690 208 720 202 745 177"></path><path d="M660 190 C 650 160 640 140 625 112"></path><path d="M660 190 C 668 150 690 130 705 102"></path><path d="M660 190 C 660 150 662 120 662 82"></path><path d="M590 172 C 575 156 560 152 540 132"></path><path d="M745 177 C 765 162 790 160 812 137"></path><path d="M625 112 C 612 97 600 82 592 60"></path><path d="M705 102 C 725 90 740 72 752 50"></path></g>
+<g stroke="#1E5B40" stroke-dasharray="3 5"><path d="M590 172 L625 112 L662 82 L705 102 L745 177"></path><path d="M540 132 L592 60 M752 50 L812 137"></path></g>
+</g>
+<g fill="#151D19" stroke="#B6F36A" stroke-width="1.6" filter="url(#fGlow)"><circle cx="590" cy="172" r="6"></circle><circle cx="745" cy="177" r="6"></circle><circle cx="625" cy="112" r="6"></circle><circle cx="705" cy="102" r="6"></circle><circle cx="662" cy="82" r="8"></circle><circle cx="540" cy="132" r="4.5"></circle><circle cx="812" cy="137" r="4.5"></circle><circle cx="592" cy="58" r="4.5"></circle><circle cx="752" cy="48" r="4.5"></circle></g>
+<g fill="#D5AE62"><circle cx="662" cy="82" r="3"></circle><circle cx="660" cy="190" r="4"></circle></g>
+<g class="rn" font-size="14" fill="#D5AE62" fill-opacity=".8"><text x="572" y="196">ᚠ</text><text x="756" y="204">ᚢ</text><text x="676" y="76">ᚦ</text><text x="600" y="104">ᚨ</text><text x="716" y="124">ᚱ</text></g>
+</svg>

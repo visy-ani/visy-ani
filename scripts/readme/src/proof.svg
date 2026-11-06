@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="330" viewBox="0 0 880 330" role="img" aria-label="GitHub contribution graph in emerald on dark, with contribution count, current streak and top languages.">
+<rect x=".5" y=".5" width="879" height="179" rx="14" fill="#101715" stroke="#29332D"></rect>
+<g class="jb" font-size="10" fill="#858D88" letter-spacing="1"><text x="24" y="28">NOV</text><text x="90" y="28">DEC</text><text x="156" y="28">JAN</text><text x="222" y="28">FEB</text><text x="288" y="28">MAR</text><text x="354" y="28">APR</text><text x="420" y="28">MAY</text><text x="486" y="28">JUN</text><text x="552" y="28">JUL</text><text x="618" y="28">AUG</text><text x="684" y="28">SEP</text><text x="750" y="28">OCT</text></g>
+<g fill="none" stroke-width="12">
+<g stroke="#151D19" stroke-dasharray="12 3"><path d="M24 46 H819"></path><path d="M24 61 H819"></path><path d="M24 76 H819"></path><path d="M24 91 H819"></path><path d="M24 106 H819"></path><path d="M24 121 H819"></path><path d="M24 136 H819"></path></g>
+<g stroke="#1E5B40" stroke-dasharray="12 3 12 18 12 3 12 3 12 33 12 18 12 3">
+<path d="M24 46 H819" stroke-dashoffset="0"></path><path d="M24 61 H819" stroke-dashoffset="75"></path><path d="M24 76 H819" stroke-dashoffset="30"></path><path d="M24 91 H819" stroke-dashoffset="120"></path><path d="M24 106 H819" stroke-dashoffset="60"></path><path d="M24 121 H819" stroke-dashoffset="15"></path><path d="M24 136 H819" stroke-dashoffset="105"></path></g>
+<g stroke="#5C9A4C" stroke-dasharray="12 48 12 78 12 18 12 108">
+<path d="M24 46 H819" stroke-dashoffset="0"></path><path d="M24 61 H819" stroke-dashoffset="90"></path><path d="M24 76 H819" stroke-dashoffset="150"></path><path d="M24 91 H819" stroke-dashoffset="45"></path><path d="M24 106 H819" stroke-dashoffset="210"></path><path d="M24 121 H819" stroke-dashoffset="120"></path><path d="M24 136 H819" stroke-dashoffset="15"></path></g>
+<g stroke="#B6F36A" stroke-dasharray="12 138 12 213 12 93">
+<path d="M24 46 H819" stroke-dashoffset="30"></path><path d="M24 61 H819" stroke-dashoffset="0"></path><path d="M24 76 H819" stroke-dashoffset="180"></path><path d="M24 91 H819" stroke-dashoffset="90"></path><path d="M24 106 H819" stroke-dashoffset="240"></path><path d="M24 121 H819" stroke-dashoffset="60"></path><path d="M24 136 H819" stroke-dashoffset="150"></path></g>
+</g>
+<g class="jb" font-size="10" fill="#858D88" letter-spacing="1"><text x="24" y="168">CONTRIBUTIONS · LAST 12 MONTHS</text><text x="716" y="168" text-anchor="end">LESS</text></g>
+<g><rect x="726" y="159" width="10" height="10" fill="#151D19"></rect><rect x="740" y="159" width="10" height="10" fill="#1E5B40"></rect><rect x="754" y="159" width="10" height="10" fill="#5C9A4C"></rect><rect x="768" y="159" width="10" height="10" fill="#B6F36A"></rect></g>
+<text class="jb" x="790" y="168" font-size="10" fill="#858D88" letter-spacing="1">MORE</text>
+
+<g transform="translate(0,198)">
+<rect x=".5" y=".5" width="279" height="131" rx="14" fill="#101715" stroke="#29332D"></rect><rect x="24" y="0" width="40" height="2" fill="#B6F36A"></rect>
+<text class="jb" x="24" y="38" font-size="11" letter-spacing="3" fill="#858D88">CONTRIBUTIONS</text><text class="sg" x="24" y="88" font-size="46" font-weight="700" fill="#B6F36A">[ N ]</text><text class="jb" x="24" y="112" font-size="10" fill="#858D88">auto-generated · 12 months</text>
+</g>
+<g transform="translate(300,198)">
+<rect x=".5" y=".5" width="279" height="131" rx="14" fill="#101715" stroke="#29332D"></rect><rect x="24" y="0" width="40" height="2" fill="#D5AE62"></rect>
+<text class="jb" x="24" y="38" font-size="11" letter-spacing="3" fill="#858D88">CURRENT STREAK</text><text class="sg" x="24" y="88" font-size="46" font-weight="700" fill="#D5AE62">[ N ]<tspan font-size="20" fill="#858D88"> days</tspan></text><text class="jb" x="24" y="112" font-size="10" fill="#858D88">auto-generated</text>
+</g>
+<g transform="translate(600,198)">
+<rect x=".5" y=".5" width="279" height="131" rx="14" fill="#101715" stroke="#29332D"></rect><rect x="24" y="0" width="40" height="2" fill="#B6F36A"></rect>
+<text class="jb" x="24" y="38" font-size="11" letter-spacing="3" fill="#858D88">TOP LANGUAGES</text>
+<rect x="24" y="56" width="110" height="10" rx="2" fill="#B6F36A"></rect><rect x="138" y="56" width="70" height="10" rx="2" fill="#5C9A4C"></rect><rect x="212" y="56" width="40" height="10" rx="2" fill="#1E5B40"></rect><rect x="256" y="56" width="0" height="10" fill="#D5AE62"></rect>
+<text class="jb" x="24" y="92" font-size="10.5" fill="#E8ECE7">● LANG 1   <tspan fill="#5C9A4C">● LANG 2</tspan>   <tspan fill="#1E5B40">● LANG 3</tspan></text><text class="jb" x="24" y="112" font-size="10" fill="#858D88">auto-generated</text>
+</g>
+</svg>

@@ -1,0 +1,17 @@
+{
+ "↗": {
+  "upm": 2048,
+  "d": "M1049 807V395H922V622L300 0L184 116L806 738H579V865H991Z",
+  "source": "Menlo-Regular (macOS system fallback used in the original design render)"
+ },
+ "●": {
+  "upm": 2048,
+  "d": "M311 1060Q463 1148 616 1148Q768 1148 921 1060Q1227 884 1227 532Q1227 180 921 4Q768 -84 616 -84Q463 -84 311 4Q6 180 6 532Q6 884 311 1060Z",
+  "source": "Menlo-Regular (macOS system fallback used in the original design render)"
+ },
+ "ᛜ": {
+  "upm": 2048,
+  "d": "M1573 416 881 1176 273 539 955 -231ZM1690 479 983 -262 998 -279 903 -363 133 479 242 571 244 569 854 1206 826 1237 934 1329 1663 510Z",
+  "source": "Apple Symbols (macOS system fallback used in the original design render) - a plain diamond"
+ }
+}

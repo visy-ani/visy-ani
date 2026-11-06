@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="440" viewBox="0 0 880 440" role="img" aria-label="Engineering doctrine. 01 Design the unknown. 02 Memory is infrastructure. 03 Fail gently, scale quietly. 04 Build the impossible.">
+<rect x=".5" y=".5" width="879" height="439" rx="14" fill="#080B0D" stroke="#29332D"></rect>
+<path d="M .5 14 a 13.5 13.5 0 0 1 13.5 -13.5 H 866 a 13.5 13.5 0 0 1 13.5 13.5 V 44 H .5 Z" fill="#101715"></path>
+<path d="M0 44.5 H880" stroke="#29332D"></path>
+<g><circle cx="26" cy="23" r="5" fill="#1E5B40"></circle><circle cx="46" cy="23" r="5" fill="#D5AE62" fill-opacity=".7"></circle><circle cx="66" cy="23" r="5" fill="#B6F36A"></circle></g>
+<text class="jb" x="92" y="27" font-size="12" fill="#858D88">~/asgard/codex — <tspan fill="#B6F36A">doctrine.rune</tspan></text>
+<g fill="none" stroke="#1E5B40" stroke-opacity=".55" stroke-width="1.4"><path d="M780 440 C 780 380 776 340 782 290 M782 340 C 760 320 740 316 720 290 M782 320 C 806 308 826 304 846 280 M782 290 C 770 260 760 240 748 210 M782 290 C 794 262 812 244 830 226"></path></g>
+<g fill="#151D19" stroke="#B6F36A" stroke-opacity=".7"><circle cx="720" cy="290" r="4"></circle><circle cx="846" cy="280" r="4"></circle><circle cx="748" cy="210" r="4"></circle><circle cx="830" cy="226" r="4"></circle></g>
+<g>
+<text class="rn" x="40" y="116" font-size="36" fill="#D5AE62">ᚠ</text>
+<text class="jb" x="96" y="84" font-size="11" letter-spacing="2" fill="#858D88">01 // FEHU · START WHERE NO PATTERN EXISTS</text>
+<text class="sg" x="94" y="118" font-size="38" font-weight="700" fill="#E8ECE7" letter-spacing="-1">DESIGN THE <tspan class="cg" font-size="44" font-weight="600" fill="#B6F36A">unknown.</tspan></text>
+<text class="rn" x="40" y="212" font-size="36" fill="#D5AE62">ᛉ</text>
+<text class="jb" x="96" y="180" font-size="11" letter-spacing="2" fill="#858D88">02 // ALGIZ · AGENTS WITHOUT CONTEXT ARE GUESSING</text>
+<text class="sg" x="94" y="214" font-size="38" font-weight="700" fill="#E8ECE7" letter-spacing="-1">MEMORY IS <tspan fill="#B6F36A">INFRASTRUCTURE.</tspan></text>
+<text class="rn" x="40" y="308" font-size="36" fill="#D5AE62">ᚦ</text>
+<text class="jb" x="96" y="276" font-size="11" letter-spacing="2" fill="#858D88">03 // THURISAZ · EVERY SYSTEM BREAKS. BREAK GENTLY</text>
+<text class="sg" x="94" y="310" font-size="38" font-weight="700" fill="#E8ECE7" letter-spacing="-1">FAIL GENTLY. <tspan fill="#B6F36A">SCALE QUIETLY.</tspan></text>
+<text class="rn" x="40" y="404" font-size="36" fill="#D5AE62">ᛟ</text>
+<text class="jb" x="96" y="372" font-size="11" letter-spacing="2" fill="#858D88">04 // OTHALA · INHERIT NOTHING. INVENT THE REST</text>
+<text class="sg" x="94" y="406" font-size="38" font-weight="700" fill="#E8ECE7" letter-spacing="-1">BUILD THE <tspan class="cg" font-size="44" font-weight="600" fill="#B6F36A">impossible.</tspan></text>
+</g>
+<g stroke="#29332D"><path d="M40 138 H700 M40 234 H700 M40 330 H700" fill="none"></path></g>
+<rect x="640" y="388" width="10" height="20" fill="#B6F36A" opacity=".9"></rect>
+</svg>
